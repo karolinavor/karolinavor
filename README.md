@@ -8,4 +8,4 @@
 
 <p align="center">💻 All of my projects are available at www.karolinavorlickova.cz</p>
 
-<p align="center">📫 How to reach me vorlickovakarolina@gmail.com</p>
+<p align="center">📫 Contact me vorlickovakarolina@gmail.com</p>
