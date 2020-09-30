@@ -4,7 +4,7 @@
 
 <p align="center">🔭 I’m currently working on my portfolio</p>
 
-<p align="center">🌱 I’m currently learning React</p>
+<p align="center">🌱 I’m currently learning JavaScript</p>
 
 <p align="center">💻 All of my projects are available at www.karolinavorlickova.cz</p>
 
